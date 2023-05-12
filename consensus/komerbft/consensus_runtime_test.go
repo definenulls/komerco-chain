@@ -8,7 +8,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/definenulls/go-ibft/messages/proto"
+	"github.com/0xPolygon/go-ibft/messages/proto"
 	"github.com/definenulls/komerco-chain/consensus"
 	"github.com/definenulls/komerco-chain/consensus/komerbft/bitmap"
 	"github.com/definenulls/komerco-chain/consensus/komerbft/contractsapi"

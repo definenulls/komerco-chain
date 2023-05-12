@@ -1,7 +1,7 @@
 package ibft
 
 import (
-	"github.com/definenulls/go-ibft/messages/proto"
+	"github.com/0xPolygon/go-ibft/messages/proto"
 	"github.com/definenulls/komerco-chain/network"
 	"github.com/definenulls/komerco-chain/types"
 	"github.com/libp2p/go-libp2p/core/peer"

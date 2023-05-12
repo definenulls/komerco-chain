@@ -15,8 +15,8 @@ import (
 	"github.com/definenulls/komerco-chain/txrelayer"
 	"github.com/definenulls/komerco-chain/types"
 
-	"github.com/definenulls/go-ibft/messages"
-	"github.com/definenulls/go-ibft/messages/proto"
+	"github.com/0xPolygon/go-ibft/messages"
+	"github.com/0xPolygon/go-ibft/messages/proto"
 	hcf "github.com/hashicorp/go-hclog"
 )
 

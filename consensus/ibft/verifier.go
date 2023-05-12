@@ -5,8 +5,8 @@ import (
 	"encoding/binary"
 	"encoding/hex"
 
-	"github.com/definenulls/go-ibft/messages"
-	protoIBFT "github.com/definenulls/go-ibft/messages/proto"
+	"github.com/0xPolygon/go-ibft/messages"
+	protoIBFT "github.com/0xPolygon/go-ibft/messages/proto"
 	"github.com/definenulls/komerco-chain/consensus/ibft/signer"
 	"github.com/definenulls/komerco-chain/crypto"
 	"github.com/definenulls/komerco-chain/types"
