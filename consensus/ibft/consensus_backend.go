@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/0xPolygon/go-ibft/messages"
-	"github.com/0xPolygon/go-ibft/messages/proto"
+	"github.com/definenulls/go-ibft/messages"
+	"github.com/definenulls/go-ibft/messages/proto"
 	"github.com/definenulls/komerco-chain/consensus"
 	"github.com/definenulls/komerco-chain/consensus/ibft/signer"
 	"github.com/definenulls/komerco-chain/helper/hex"

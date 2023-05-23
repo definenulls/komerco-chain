@@ -1,7 +1,7 @@
 
 # Komerbft consensus protocol
 
-Komerbft is a consensus protocol, which runs [go-ibft](https://github.com/0xPolygon/go-ibft) consensus engine.  
+Komerbft is a consensus protocol, which runs [go-ibft](https://github.com/definenulls/go-ibft) consensus engine.  
 
 It has native support for running bridge, which enables running cross-chain transactions with Ethereum-compatible blockchains.
 

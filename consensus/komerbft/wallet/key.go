@@ -3,7 +3,7 @@ package wallet
 import (
 	"fmt"
 
-	"github.com/0xPolygon/go-ibft/messages/proto"
+	"github.com/definenulls/go-ibft/messages/proto"
 	bls "github.com/definenulls/komerco-chain/consensus/komerbft/signer"
 	"github.com/definenulls/komerco-chain/crypto"
 	"github.com/definenulls/komerco-chain/types"

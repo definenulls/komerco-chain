@@ -3,7 +3,7 @@ package wallet
 import (
 	"testing"
 
-	"github.com/0xPolygon/go-ibft/messages/proto"
+	"github.com/definenulls/go-ibft/messages/proto"
 	bls "github.com/definenulls/komerco-chain/consensus/komerbft/signer"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
