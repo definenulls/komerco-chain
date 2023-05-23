@@ -1,23 +1,6 @@
 
 ![Banner](.github/banner.jpg)
 
-## Update: Edge v0.8 is here!  
-
-Developers at Komerco Labs have been hard at work gathering and incorporating community feedback into the Edge client and a new version of Edge, v0.8, is here with several new features! Check out the Release Notes included with the release to find out more! 
-
-## Komerco Edge
-
-Komerco Edge is a modular and extensible framework for building Ethereum-compatible blockchain networks.
-
-To find out more about Komerco, visit the [official website](https://komerco.technology/).
-
-WARNING: This is a work in progress so architectural changes may happen in the future. The code is still being audited, so please contact the Komerco team if you would like to use it in production.
-
-## Documentation 📝
-
-If you'd like to learn more about the Komerco Edge, how it works and how you can use it for your project,
-please check out the **[Komerco Supernets Documentation](https://wiki.komerco.technology/docs/supernets/get-started/what-are-supernets)**.
-
 ## Disclaimer
 
 As this project evolves, the Komerco Labs developer team will focus on the latest version of the Edge client and does not plan to support Edge 0.6 or lower. It is highly recommended that you upgrade to the newest version with the most up-to-date features and fixes. Users that want to stay on 0.6 or below, can continue to do so. The repo will continue to exist and users can fork it and do with it as they please, subject to applicable open-source license terms. 
