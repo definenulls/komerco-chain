@@ -3,7 +3,7 @@ package komerbft
 import (
 	"fmt"
 
-	ibftProto "github.com/definenulls/go-ibft/messages/proto"
+	ibftProto "github.com/definenulls/go-ibft-main/messages/proto"
 	komerbftProto "github.com/definenulls/komerco-chain/consensus/komerbft/proto"
 	"github.com/definenulls/komerco-chain/types"
 	"github.com/libp2p/go-libp2p/core/peer"

@@ -4,7 +4,7 @@ import (
 	"context"
 	"sync"
 
-	"github.com/definenulls/go-ibft/core"
+	"github.com/definenulls/go-ibft-main/core"
 )
 
 // IBFTConsensus is a convenience wrapper for the go-ibft package

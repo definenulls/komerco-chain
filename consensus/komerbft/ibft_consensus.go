@@ -3,7 +3,7 @@ package komerbft
 import (
 	"context"
 
-	"github.com/definenulls/go-ibft/core"
+	"github.com/definenulls/go-ibft-main/core"
 )
 
 // IBFTConsensusWrapper is a convenience wrapper for the go-ibft package
